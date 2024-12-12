@@ -15,6 +15,7 @@
 
 # production
 /build
+.worker-next 
 
 # misc
 .DS_Store
